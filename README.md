@@ -34,7 +34,7 @@ Durante o desenvolvimento deste projeto, aprendi a integrar diversas tecnologias
 
 1.  Clone o repositório:
 
-    `git clone https://github.com/usuario/repositorio.git` 
+    `git clone https://github.com/GustavoBritodev/pass-in-api.git` 
     
 2.  Instale as dependências com Maven
     
